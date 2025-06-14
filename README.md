@@ -1,5 +1,8 @@
 # ARC_platform
-An open-source project exploring modular wearable electronics
+An open-source project exploring modular wearable electronics.
+
+The goal of this project is to develop a central piece of wearable electronics that can be connected to different modules easily. The current design uses standard 2,5mm jack-connectors to provide a link between the central piece and other modules.
+The housing was drawn in Autodesk's Fusion 360 specifically for the Velleman [VMW100](https://www.velleman.eu/products/view/brightdot-wearable-development-board-vmw100/?id=440494) development board and designed after the arc-reactor as seen in the Irom Man comics, movie-trillogy and other Marvel productions.
 
 ## License
 
