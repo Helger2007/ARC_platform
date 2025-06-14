@@ -1,5 +1,6 @@
 /* BrightDot example program by PSI @ Velleman NV */
 /* Based on the NeoPixel Ring simple sketch by Shae Erisson */
+/* Adapted by Helger2007 as examplecode for the ARC-platform project */
 
 //***DECLARATIONS
 //NEOPIXEL library
