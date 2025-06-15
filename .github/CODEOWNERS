@@ -1,0 +1,6 @@
+# Restrict changes to the README and hub
+README.md @Helger2007
+/hub/ @Helger2007
+
+# Allow free editing of modules
+/modules/ *
