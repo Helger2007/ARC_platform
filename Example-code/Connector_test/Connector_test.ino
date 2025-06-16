@@ -120,5 +120,5 @@ void loop()
   else {
     pixels.setPixelColor(10,pixels.Color(0, 0, 0));
   }
-  pixels.show()
+  pixels.show();
 }
