@@ -1,0 +1,4 @@
+# Restrict changes to the README and hub
+README.md @Helger2007
+LICENSE @Helger2007
+/hub/ @Helger2007
